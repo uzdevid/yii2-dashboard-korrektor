@@ -17,7 +17,6 @@
   ],
   "require": {
     "yiisoft/yii2": "~2.0.0",
-    "uzdevid/dashboard": "~1.2.0",
     "uzdevid/yii2-korrektor": "^1.0.0"
   },
   "autoload": {
